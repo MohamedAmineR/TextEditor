@@ -1,2 +1,2 @@
 # TextEditor
-TextEditor part of my thesis
+No new release is available, The Gui Update
